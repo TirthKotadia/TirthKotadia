@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 # 💫 About Me
 
 🔭 **I’m currently working on** building AI-powered applications, RAG pipelines, and intelligent AI agents, focusing on turning AI concepts into practical, real-world solutions.
